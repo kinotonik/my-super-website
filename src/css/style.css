@@ -1,12 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&family=Shadows+Into+Light&display=swap');
 
-:root {
-    --orange:#FFC300;
-}
 
 body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
-    color: white;
+    color: black;
 }
